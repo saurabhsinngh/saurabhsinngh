@@ -4,27 +4,10 @@ Glad to see you here! 🤩 a Web Developer and Open Source Developer🚀 from In
 
 ### Connect with me:
 
-<div id="badges">
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/saurabh-singh-70939a195/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Linkedln-blue?style=for-the-badge&logo=linkedln&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-
-  <!-- YouTube Badge -->
-  <a href="https://www.youtube.com/@saurabhsinghvlogs2432" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
-  </a>
-
-  <!-- Twitter (X) Badge -->
-  <a href="https://x.com/Saurabh_Singh54" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
-
-  <!-- Gmail Badge -->
-  <a href="mailto:saurabh28720@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-@saurabh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/saurabh-singh-70939a195/)](https://www.linkedin.com/in/saurabh-singh-70939a195/)
+[![Twitter Badge](http://img.shields.io/badge/-@saurabhsingh-1ca0f1?style=social&logo=x&logoColor=blue&link=https://x.com/Saurabh_Singh54)](https://x.com/Saurabh_Singh54) 
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:saurabh28720@gmail.com)](mailto:saurabh28720@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-c14438?style=social&logo=Youtubel&logoColor=red&link=mailto:https://www.youtube.com/@saurabhsinghvlogs2432)](mailto:https://www.youtube.com/@saurabhsinghvlogs2432)
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,rabbitmq,git,github,postman)](https://skillicons.dev)
