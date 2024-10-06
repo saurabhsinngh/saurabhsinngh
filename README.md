@@ -21,8 +21,8 @@ Glad to see you here! 🤩 a Web Developer and Open Source Developer🚀 from In
   </a>
 
   <!-- Gmail Badge -->
-  <a href="mailto:saurabh.singh@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="path/to/your/gmail-image.png" alt="Gmail Badge" />
+  <a href="mailto:saurabh28720@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </div>
 
