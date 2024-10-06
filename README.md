@@ -19,4 +19,4 @@ Glad to see you here! 🤩 a Web Developer and Open Source Developer🚀 from In
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,rabbitmq,git,github,postman,ffmpeg,socket,jest,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,rabbitmq,git,github,postman,ffmpeg,socket,jest)](https://skillicons.dev)
