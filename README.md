@@ -3,20 +3,28 @@
 Glad to see you here! 🤩 a Web Developer and Open Source Developer🚀 from India.
 
 ### Connect with me:
+
 <div id="badges">
-  <a href="https://github.com/saurabhsinngh">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/saurabh-singh-70939a195/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Linkedln-blue?style=for-the-badge&logo=linkedln&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.youtube.com/@saurabhsinghvlogs2432">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+
+  <!-- YouTube Badge -->
+  <a href="https://www.youtube.com/@saurabhsinghvlogs2432" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a>
-   <a href="https://www.linkedln.com/in/saurabh-singh-70939a195/">
-    <img src="https://img.shields.io/badge/Linkedln-blue?style=for-the-badge&logo=linkedln&logoColor=white" alt="Linkedln Badge"/>
+
+  <!-- Twitter (X) Badge -->
+  <a href="https://x.com/Saurabh_Singh54" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-   <a href="https://x.com/Saurabh_Singh54">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
+  <!-- Gmail Badge -->
+  <a href="mailto:saurabh.singh@example.com" target="_blank" rel="noopener noreferrer">
+    <img src="path/to/your/gmail-image.png" alt="Gmail Badge" />
   </a>
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,rabbitmq,git,github,postman,ffmpeg,socket,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,rabbitmq,git,github,postman)](https://skillicons.dev)
